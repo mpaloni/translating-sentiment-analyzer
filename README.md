@@ -2,7 +2,7 @@
 
 Using translation from original language to perform sentiment analysis with pretrained model
 
-We use [translate and analyze](translate and analyze.ipynb) notebook as the main file, which utilizes other modules.
+We use [translate and analyze](translate_and_analyze.ipynb) notebook as the main file, which utilizes other modules.
 
 ## Environment
 
